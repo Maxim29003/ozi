@@ -1,0 +1,3 @@
+﻿  rsa.cpp
+C:\Users\Lena\source\repos\rsa\rsa\rsa.cpp(12,13): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+  rsa.vcxproj -> C:\Users\Lena\source\repos\rsa\Debug\rsa.exe
